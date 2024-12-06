@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 fries
 chocolate
 sweets
 dosa
+=======
+RRR
+HappyDays
+Godavari
+>>>>>>> movies
